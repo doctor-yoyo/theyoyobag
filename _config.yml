@@ -1,8 +1,8 @@
-title:              The Yoyo Bag
+title:              The Yoyo String
 email:              doctoryoyoslab@gmail.com
-description:        A Blog to Document My Journey to Becoming a Pentester.
+description:        A Blog to Document My Ups and Downs to Becoming a Pentester.
 author:             Doctor Yoyo
-baseurl:            "/theyoyobag"
+baseurl:            "/theyoyostring"
 url:                "https://doctor-yoyo.github.io"
 
 # Social Profiles
